@@ -1,0 +1,30 @@
+_repo: Arethusa-Konstantinopolin-orjatar_66865
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jaakkola, Jalmari
+    gutenberg_agent_id: '53993'
+    url: http://www.gutenberg.org/2009/agents/53993
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: ''
+gutenberg_issued: '2021-12-02'
+identifiers:
+  gutenberg: '66865'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Arethusa
+
+  Konstantinopolin orjatar'
+url: http://www.gutenberg.org/ebooks/66865
