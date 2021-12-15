@@ -5,6 +5,9 @@ contributor:
     agent_name: Jaakkola, Jalmari
     gutenberg_agent_id: '53993'
     url: http://www.gutenberg.org/2009/agents/53993
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Crawford, F. Marion (Francis Marion)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1316
     wikipedia: https://en.wikipedia.org/wiki/Francis_Marion_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66865#Arethusa-Konstantinopolin-orjatar
 gutenberg_issued: '2021-12-02'
 identifiers:
   gutenberg: '66865'
